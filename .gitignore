@@ -1,0 +1,84 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Generated files
+*.gen.cpp
+*.gen.h
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Code::Blocks generated files
+*.depend
+*.layout
+*.layout.*
+*.cbp
+*.workspace
+
+# Qt generated files
+*.moc
+*.qrc
+*.ui
+
+# Other generated files
+*.orig
+*.rej
+*.bak
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+*.sublime-project
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.creator.user
+*.creator.user.*
+*.creator.cdb
+*.autosave
+
+# Backup files
+*~
+*.bak
+*.old
+*.backup
+*.orig
+*.tmp
+*.temp
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.code-workspace
+
+# Other
+.DS_Store
+Thumbs.db
